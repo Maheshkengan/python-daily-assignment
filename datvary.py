@@ -1,0 +1,11 @@
+text = "Edukron Data science and Data engineering Batch 2026"
+print(text[0:7])
+print(text[8:12])
+print(text[13:20])
+print(text[21:24])
+print(text[25:41])
+print(text[30:41])
+print(text[42:47])
+print(text[48:52])
+print(text[13:29])
+print(text[8:47])
